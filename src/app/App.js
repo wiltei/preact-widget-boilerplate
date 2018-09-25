@@ -14,7 +14,7 @@ const App = ({ onReset }) => {
       <Intro />
       <Counter />
       <Toggle />
-      <Button text="Reset state" onClick={ onReset } />
+      <Button text="Uudelleenaseta osavaltio" onClick={ onReset } />
     </div>
   )
 }
